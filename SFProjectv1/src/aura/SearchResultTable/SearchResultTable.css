@@ -1,0 +1,16 @@
+.THIS {
+}
+
+.THIS .marginbottom{
+    margin-bottom:8%
+}
+
+.THIS .headingstyle{
+    margin-bottom:5px; 
+    clear:both;
+}
+
+.THIS.headingstyle{
+    margin-bottom:5px; 
+    clear:both;
+}

@@ -1,0 +1,7 @@
+<aura:component >
+    <aura:attribute name="report" type="Report" />
+    
+    <div class="slds-col slds-size_1-of-3 slds-p-around_medium slds-box">
+        <span>{!v.report.Name}</span><br/>
+    </div>
+</aura:component>
